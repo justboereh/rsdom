@@ -1,5 +1,7 @@
 [package]
 name = "rsdom"
+description = "DOM manipulation with Rust."
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
